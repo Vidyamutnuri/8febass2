@@ -1,0 +1,11 @@
+# 8febass2
+Assignment
+Kilometer=int(input("Enter the length in Kilometer:"))  
+
+centimeter  = 100000 * Kilometer;    
+     
+print("The length in centimeter",round(centimeter,2))  
+Output:
+
+Enter the length in Kilometer: 25
+The length in centimeter 2500000
